@@ -88,7 +88,7 @@ public class Main {
             case 10:
             case 11:
                 System.out.println("Осень.");
-                default:
+            default:
                 System.out.println("Такого сезона не существует");
         }
         }
